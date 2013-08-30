@@ -72,6 +72,7 @@ Topics Covered Will Include:
 
 - Reproducibility and Collaboration
 - Computational Architecture
+- Security and Data Integrity
 - Data structures and formats
 - Content v. Presentation; Web standards
 - Simulation
