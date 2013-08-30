@@ -82,6 +82,7 @@ Topics Covered Will Include:
 - Data Visualization
 - Code efficiency
 
+You'll find more details in the [topic sketch](./topic-sketch.md).
 
 Specific Objectives
 --------------------
