@@ -28,7 +28,7 @@ Instructors
     Office Hours: TBD
     Virtual Office Hours: TBD on ##stat157 channel of freenode.net
 
-    Phillip Stark
+    Philip Stark
     Department of Statistics
     <stark@stat.berkeley.edu>
 
