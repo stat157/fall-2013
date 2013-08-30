@@ -4,7 +4,8 @@ be covering the material in the order listed here, but rather as we
 work on a real problem we'll address these issues as they arise and
 are presented to us.
 
-* Reproducibility and Collaboration
+Reproducibility and Collaboration
+---------------------------------
 - Revision control systems: why?
 - Introduction to git and github
 - Introduction to Python and IPython notebook
@@ -18,19 +19,22 @@ are presented to us.
 - Reproducibility and replicability; levels of reproducibility.
 - Coding for Collaboration. Collaborating with your future self
 - (Resources: http://nbviewer.ipython.org/urls/raw.github.com/fperez/reprosw/master/Version%20Control.ipynb, https://github.com/swcarpentry/boot-camps/tree/2013-04-ucb)
-* Computational Architecture
+Computational Architecture
+--------------------------
 - Parallel computing: MIMD, SIMD, Hadoop, Map-Reduce. Inter-process communication (tools for scientific computing)
 - Cloud computing
 - Virtual machines
 - Installing software on virtual machines
-* Security and Data Integrity
+Security and Data Integrity
+---------------------------
 - Hashes and digests (PRNG, security)
 - Key properties of ideal hashes: collision-free, one-way
 - Sketch of SHA256 (cryptographically encode info) MD5 is broken.
 - Hash chains
 - Public key encryption
 - Digital signatures
-* Data structures and formats
+Data structures and formats
+---------------------------
 - XML
 - JSON
 - Unstructured data
@@ -38,14 +42,16 @@ are presented to us.
 - regular expressions
 - Relational databases; SQL
 - Pickling
-* Content v. Presentation; Web standards
+Content v. Presentation; Web standards
+--------------------------------------
 - Separating content from presentation
 - XHTML, CSS
 - HTML5
 - JavaScript
 - jQuery
 - D3
-* Simulation
+Simulation
+----------
 - Pseudo-random number generators; seeds
 - Tests of PRNGs: DIEHARD battery
 - Connection between PRNGs and cryptography
@@ -65,13 +71,15 @@ are presented to us.
    + Tests of association
       + Spearman Rank correlation and test
       + Permutation version of Pearson test
-* Numerics
+Numerics
+--------
 - Floating point arithmetic
 - Machine precision
 - Underflow and overflow
 - Error accumulation
 - algebraic equality does not imply numerical equality: examples
-* Numerical linear algebra
+Numerical linear algebra
+------------------------
 - Numerical linear algebra
 - Packages: LAPACK, SCALAPACK
 - Condition number
@@ -79,7 +87,8 @@ are presented to us.
 - Least squares: the Projection Theorem and its geometric interpretation.
 - Underconstrained systems: The Pseudo-Inverse
 - Regularized least squares and ridge regression
-* Optimization
+Optimization
+------------
 - Unconstrained optimization: the problem of local minima.
 - Minimal values versus minimizing points
 - Convex optimization. Local minima attain the global minimum.
@@ -88,7 +97,8 @@ are presented to us.
 - Failure of steepest descent for nonsmooth convex problems: example
 - Convex Constrained optimization: Kuhn-Tucker conditions.
 - Linear and quadratic programs. Fundamental Theorem of Linear Programming; the Simplex Algorithm
-* Data Visualization
+Data Visualization
+------------------
 - Principles and best practices for graphical display of data
 - Plotting, contour plots, mesh plots, false-color plots.
 - Plotting on non-Cartesian domains
