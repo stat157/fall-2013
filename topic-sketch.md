@@ -19,12 +19,14 @@ Reproducibility and Collaboration
 - Reproducibility and replicability; levels of reproducibility.
 - Coding for Collaboration. Collaborating with your future self
 - (Resources: http://nbviewer.ipython.org/urls/raw.github.com/fperez/reprosw/master/Version%20Control.ipynb, https://github.com/swcarpentry/boot-camps/tree/2013-04-ucb)
+
 Computational Architecture
 --------------------------
 - Parallel computing: MIMD, SIMD, Hadoop, Map-Reduce. Inter-process communication (tools for scientific computing)
 - Cloud computing
 - Virtual machines
 - Installing software on virtual machines
+
 Security and Data Integrity
 ---------------------------
 - Hashes and digests (PRNG, security)
@@ -33,6 +35,7 @@ Security and Data Integrity
 - Hash chains
 - Public key encryption
 - Digital signatures
+
 Data structures and formats
 ---------------------------
 - XML
@@ -42,6 +45,7 @@ Data structures and formats
 - regular expressions
 - Relational databases; SQL
 - Pickling
+
 Content v. Presentation; Web standards
 --------------------------------------
 - Separating content from presentation
@@ -50,6 +54,7 @@ Content v. Presentation; Web standards
 - JavaScript
 - jQuery
 - D3
+
 Simulation
 ----------
 - Pseudo-random number generators; seeds
@@ -71,6 +76,7 @@ Simulation
    + Tests of association
       + Spearman Rank correlation and test
       + Permutation version of Pearson test
+
 Numerics
 --------
 - Floating point arithmetic
@@ -78,6 +84,7 @@ Numerics
 - Underflow and overflow
 - Error accumulation
 - algebraic equality does not imply numerical equality: examples
+
 Numerical linear algebra
 ------------------------
 - Numerical linear algebra
@@ -87,6 +94,7 @@ Numerical linear algebra
 - Least squares: the Projection Theorem and its geometric interpretation.
 - Underconstrained systems: The Pseudo-Inverse
 - Regularized least squares and ridge regression
+
 Optimization
 ------------
 - Unconstrained optimization: the problem of local minima.
@@ -97,12 +105,15 @@ Optimization
 - Failure of steepest descent for nonsmooth convex problems: example
 - Convex Constrained optimization: Kuhn-Tucker conditions.
 - Linear and quadratic programs. Fundamental Theorem of Linear Programming; the Simplex Algorithm
+
 Data Visualization
 ------------------
 - Principles and best practices for graphical display of data
 - Plotting, contour plots, mesh plots, false-color plots.
 - Plotting on non-Cartesian domains
-* Code efficiency
+
+Code efficiency
+---------------
 - Profiling tools
 - vectorization and nested loops
 - reducing duplicated evaluations
