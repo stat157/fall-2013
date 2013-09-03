@@ -1,4 +1,4 @@
-Statistics 157: Reproducible and Collaborative Data Science
+Yay 157: Reproducible and Collaborative Data Science
 ===========================================================
 
 This repository contains the course materials for the Fall 2013
