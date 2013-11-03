@@ -1,5 +1,3 @@
-Test form: https://docs.google.com/forms/d/1ODTNA2ye73CsKUyB2pfy-Exei08V56EUrsvQHFnakyo/edit
-
 This list is a quick sketch of many of the topics we'll cover in this
 course. The list groups together related topics, but we will **not**
 be covering the material in the order listed here, but rather as we
